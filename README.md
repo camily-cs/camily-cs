@@ -21,12 +21,14 @@
    
 <div style="display: inline_block">
   &nbsp
-  <img align="center" alt="camily-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  &nbsp &nbsp
   <img align="center" alt="Camily-NodeJS"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  &nbsp  &nbsp
+  <img align="center" alt="Camily-NodeJS"  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </div>
    
 <hr>
+   
+   
    
 <div style="display: inline_block" align="center"><br>
   <a href="https://www.linkedin.com/in/camily-cruz-2331991a6/" target="blank">
