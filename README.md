@@ -1,4 +1,4 @@
-<h1> Seja bem vindo ao meu github! ☺️</h1>
+<h1> Seja bem vindo! ☺️ </h1>
 
 <div align="center">
   <a href="https://github.com/camily-cs">
