@@ -36,8 +36,4 @@
   <a href="https://www.linkedin.com/in/camily-cruz-2331991a6/" target="blank">
     <img align="center" alt="Camily-Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-    &nbsp 
-  <a href="https://www.instagram.com/camilycruzs/" target="blank">
-    <img align="center" alt="camily-Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
 </div>
