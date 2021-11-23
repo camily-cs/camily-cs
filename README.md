@@ -14,7 +14,9 @@
    &nbsp
   <img align="center" alt="Camily-JS" height="35" width="45" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg>
    &nbsp &nbsp
-  <img align="center" alt="Camily-TS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+  <img align="center" alt="Camily-TS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   &nbsp &nbsp
+  <img align="center" alt="Camily-Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  </div>
    
  <hr>
