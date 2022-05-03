@@ -35,8 +35,7 @@
    
    
 <div style="display: inline_block" align="center"><br>
-  <a href="https://www.linkedin.com/in/camilycruzsilva/
-" target="blank">
+  <a href="https://www.linkedin.com/in/camilycruzsilva/" target="blank">
     <img align="center" alt="Camily-Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
